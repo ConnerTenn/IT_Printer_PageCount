@@ -1,0 +1,4 @@
+NetworkTimeout=4 #seconds
+URL=.internal/cgi-bin/dynamic/printer/PrinterStatus.html
+
+
